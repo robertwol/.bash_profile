@@ -1,6 +1,6 @@
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
-
+#Credit to Nathaniel Landau from https://natelandau.com/my-mac-osx-bash_profile/
 #alias ll='ls -lG'
 
 #  ---------------------------------------------------------------------------
